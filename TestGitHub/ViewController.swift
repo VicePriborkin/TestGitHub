@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     func stam(){
         //THSI IS A TEST LINE FOR Commit
     }
+    
+    func myAwasomeFunction(){
+        print("Mashu TOV 😇")
+    }
 
 
 }
