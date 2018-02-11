@@ -12,6 +12,7 @@
 		1EC63C182030361700514D0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EC63C162030361700514D0E /* Main.storyboard */; };
 		1EC63C1A2030361700514D0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EC63C192030361700514D0E /* Assets.xcassets */; };
 		1EC63C1D2030361700514D0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EC63C1B2030361700514D0E /* LaunchScreen.storyboard */; };
+		1EC63C2720303A6D00514D0E /* spiderman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EC63C2620303A6D00514D0E /* spiderman.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1EC63C192030361700514D0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1EC63C1C2030361700514D0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1EC63C1E2030361700514D0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EC63C2620303A6D00514D0E /* spiderman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = spiderman.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				1EC63C142030361700514D0E /* ViewController.swift */,
 				1EC63C162030361700514D0E /* Main.storyboard */,
 				1EC63C192030361700514D0E /* Assets.xcassets */,
+				1EC63C2620303A6D00514D0E /* spiderman.jpg */,
 				1EC63C1B2030361700514D0E /* LaunchScreen.storyboard */,
 				1EC63C1E2030361700514D0E /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 				1EC63C1D2030361700514D0E /* LaunchScreen.storyboard in Resources */,
 				1EC63C1A2030361700514D0E /* Assets.xcassets in Resources */,
 				1EC63C182030361700514D0E /* Main.storyboard in Resources */,
+				1EC63C2720303A6D00514D0E /* spiderman.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
